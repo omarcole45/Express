@@ -1,6 +1,7 @@
+/**
+ * This class is responsible for the request which we call the  controller.
+ */
 package com.bharath.location.controllers;
-
-
 
 
 import java.util.List;
